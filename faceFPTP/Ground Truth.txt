@@ -1,0 +1,17 @@
+filename1.jpg
+4
+1 1 4 2
+8 1 4 2
+1 1 2 1
+8 1  2 2
+filename2.jpg
+3
+8 1 4 2
+1 10 2 1
+8 10  2 2
+filename3.jpg
+0
+filename4.jpg
+2
+1 2 3 4 
+8 10  2 2
