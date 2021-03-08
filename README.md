@@ -30,7 +30,7 @@ filename1.jpg   # image name
 15 15 4 2 0.1
 ```
 
-## result.txt
+## output.txt
 ```
 FP	TP	Threshold 
 7	5	0.1
