@@ -32,7 +32,7 @@ filename1.jpg   # image name
 
 ## output.txt
 ```
-FP	TP	Threshold 
+FP	TP	Confidence 
 7	5	0.1
 5	5	0.4
 4	4	0.5
